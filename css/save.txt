@@ -1,0 +1,8 @@
+<div class="section no-pad-bot">
+      <div class="container" style="display: table;">
+          <div style="display: table-cell; vertical-align: middle; width: 60%">
+            <h1 class="heavy white-text text-darken-3">Liz Willer</h1>
+            <br>
+          </div>  
+      </div>    
+    </div>
