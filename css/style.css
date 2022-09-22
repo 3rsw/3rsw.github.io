@@ -15,6 +15,10 @@ p {
   line-height: 2rem;
 }
 
+h1 {
+  font-size: clamp(5px, 20vmin, 130px);
+}
+
 .sidenav-trigger {
   color: #26a69a;
 }
